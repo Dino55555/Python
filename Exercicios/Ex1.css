@@ -1,0 +1,20 @@
+/*Fix this CSS so it correctly turns a class called title blue:
+
+title {
+  color: "blue";
+}
+
+header_title {
+  font-size: 18px;
+  color: "blue";
+}
+
+*/
+.title {         /*. é necessário antes de uma classe*/   
+  color: blue; /*Color name desn't have " "*/
+}
+
+.header_title {
+  font-size: 18px;
+  color: blue;
+}
